@@ -6,7 +6,7 @@ JJ斗地主,http://dxa.yiandrive.com:39319/douyu/488743
 鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=60
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-CCTV1-综合,http://114.241.111.224:85/tsfile/live/1/1001_1.m3u8?key=txiptv
+CCTV1-综合,http://123.113.101.206:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0#http://123.121.5.196:5003/cctv1.m3u8?token=7375646fad8e32d152bd37b24cfc167781a51f8c&z=1151
 CCTV2-财经,http://114.241.111.224:85/tsfile/live/2/1002_1.m3u8?key=txiptv
 CCTV3-综艺,http://114.241.111.224:85/tsfile/live/3/1003_1.m3u8?key=txiptv
 CCTV4-国际,http://114.241.111.224:85/tsfile/live/4/1004_1.m3u8?key=txiptv
