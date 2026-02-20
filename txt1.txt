@@ -204,6 +204,9 @@ BTV北京卫视,http://114.241.107.24:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 中天新闻,http://67.220.67.246:2347/livehttpplay?channel_id=20163
 中天新闻,http://208.87.242.79/livehttpplay?channel_id=20163
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148
+中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+东森超市,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 ETV,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森新闻,http://208.87.242.79/livehttpplay?channel_id=20082
 天元围棋,http://111.8.242.103:9999/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
