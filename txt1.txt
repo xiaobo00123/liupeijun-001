@@ -89,7 +89,8 @@ Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txi
 凤凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰中文,http://8.138.7.223/tv/gdmzyd.php?id=4$LR•IPV4『线路30』
-CETV1,http://123.114.99.216:4022/rtp/239.3.1.57:8152
+[BD]「斗鱼」jj斗地主,https://t.freetv.fun/live/dou-yu-jjdou-di-zhu.m3u8
+手游/JJ斗地主专场,https://live.ottiptv.cc/huya/30814433
 斗鱼JJ斗地主,https://live.iill.top/douyu/488743
 手游/JJ斗地主专场,https://live.ottiptv.cc/huya/30814433
 「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
