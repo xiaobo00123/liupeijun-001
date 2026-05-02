@@ -739,6 +739,11 @@ CCTV12,http://go.bkpcp.top/mg/cctv12
 英雄联盟,https://yahu.liugeg.ccwu.cc?id=660000
 台球1,https://yahu.liugeg.ccwu.cc?id=10147
 欢乐斗地主,https://yahu.liugeg.ccwu.cc?id=24886560
+小小小酷哥,https://yahu.liugeg.ccwu.cc?id=1995
+看看小吴,https://yahu.liugeg.ccwu.cc?id=123321
+西安,https://yahu.liugeg.ccwu.cc?id=233
+地主1,https://yahu.liugeg.ccwu.cc?id=152698
+
 
 
 卫视,#genre#
