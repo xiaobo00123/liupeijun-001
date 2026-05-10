@@ -45,6 +45,14 @@
       "quickSearch": 1,
       "filterable": 1
     }
+    {
+        "id": "feifan",
+        "name": "非凡资源",
+        "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1
+    }
   ],
   "lives": [
     {
