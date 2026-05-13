@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "pinguo",
-      "name": "苹果",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "key": "haohua",
+      "name": "豪华",
+      "type": 0,
+      "api": " https://hhzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
