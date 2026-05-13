@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "dianying",
-      "name": "电影天堂",
+      "key": "pinguo",
+      "name": "苹果",
       "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
