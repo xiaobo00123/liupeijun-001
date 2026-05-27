@@ -19,10 +19,10 @@
       "filterable": 1
     },
     {
-      "key": "feifei",
-      "name": "飞飞",
+      "key": "niuniu",
+      "name": "牛牛",
       "type": 0,
-      "api": "https://www.qilinzyz.com/api.php/provide/vod/at/xml",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
