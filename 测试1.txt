@@ -19,19 +19,10 @@
       "filterable": 1
     },
     {
-      "key": "tengxun",
-      "name": "腾讯",
-      "type": 1,
-      "api": "https://www.qilinzyz.com/api.php/provide/vod/from/qq/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "zanpian",
-      "name": "赞片",
+      "key": "feifei",
+      "name": "飞飞",
       "type": 0,
-      "api": "https://www.qilinzyz.com/api.php/provide/vod/at/xml/?ac=list",
+      "api": "https://www.qilinzyz.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
