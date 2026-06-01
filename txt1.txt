@@ -70,11 +70,6 @@ WWOR-DT1,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
 咪视通-43,http://43.251.226.110:8880/play/2638.m3u8
 咪视通-44,http://43.251.226.110:8880/play/2639.m3u8
 咪视通-45,http://43.251.226.110:8880/play/2640.m3u8
-Eurosport 4K,http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-Love Nature,http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
-Travel XP,http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
-Xinjiang TV 3,http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
-Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 都市剧场,http://116.232.150.99:50001/tsfile/live/0001_28.m3u8?key=txiptv&playlive=1&authid=0
 乐游,http://116.232.150.99:50001/tsfile/live/0001_44.m3u8?key=txiptv&playlive=1&authid=0
 2025-03-03,https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
@@ -749,8 +744,17 @@ wwe赛事,https://yahu.liugeg.ccwu.cc?id=26237550
 柯南,https://yahu.liugeg.ccwu.cc?id=30080148
 脱口秀,https://yahu.liugeg.ccwu.cc?id=11352875
 中国通史,https://yahu.liugeg.ccwu.cc?id=20985822
-
-
+小白兔星秀,https://yahu.liugeg.ccwu.cc?id=51525
+唱歌,https://yahu.liugeg.ccwu.cc?id=365745
+脱口秀大会,https://yahu.liugeg.ccwu.cc?id=30080243
+中国通史,https://yahu.liugeg.ccwu.cc?id=20985822
+跑男,https://yahu.liugeg.ccwu.cc?id=29465875
+综艺搞笑,https://yahu.liugeg.ccwu.cc?id=29982625
+犯罪案件,https://yahu.liugeg.ccwu.cc?id=26355785
+糖糖说案,https://yahu.liugeg.ccwu.cc?id=14776702
+石行中东,https://yahu.liugeg.ccwu.cc?id=13303478
+星爷,https://yahu.liugeg.ccwu.cc?id=11342412
+武林萌主,https://yahu.liugeg.ccwu.cc?id=11336726
 
 卫视,#genre#
 东方卫视,http://120.253.150.222:50312/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
