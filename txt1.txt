@@ -71,15 +71,8 @@ WWOR-DT1,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
 咪视通-44,http://43.251.226.110:8880/play/2639.m3u8
 咪视通-45,http://43.251.226.110:8880/play/2640.m3u8
 都市剧场,http://116.232.150.99:50001/tsfile/live/0001_28.m3u8?key=txiptv&playlive=1&authid=0
-乐游,http://116.232.150.99:50001/tsfile/live/0001_44.m3u8?key=txiptv&playlive=1&authid=0
-2025-03-03,https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
 荆州新闻高清,http://61.184.46.85:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球高清,http://61.184.46.85:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-测试2,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-熊熊乐园33,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1d01816b5ae945bea728f10ee99d7c41/1200.m3u8
-天元围棋,http://121.29.215.252:2083/rtp/239.253.93.211:6389
-天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
@@ -730,6 +723,8 @@ CCTV9,http://go.bkpcp.top/mg/cctv9
 CCTV10,http://go.bkpcp.top/mg/cctv10
 CCTV11,http://go.bkpcp.top/mg/cctv11
 CCTV12,http://go.bkpcp.top/mg/cctv12
+
+虎牙,#genre#
 台球,https://yahu.liugeg.ccwu.cc?id=210147
 英雄联盟,https://yahu.liugeg.ccwu.cc?id=660000
 台球1,https://yahu.liugeg.ccwu.cc?id=10147
@@ -793,6 +788,16 @@ wwe赛事,https://yahu.liugeg.ccwu.cc?id=26237550
 音乐,https://yahu.liugeg.ccwu.cc?id=15590571
 交友,https://yahu.liugeg.ccwu.cc?id=13168
 一起玩,https://yahu.liugeg.ccwu.cc?id=52031
+
+抖音,#genre#
+c6,https://iptv.catvod.com/douyin/208823316033
+c13,https://iptv.catvod.com/douyin/339638082961
+c5,https://iptv.catvod.com/douyin/870887192950
+c5,https://iptv.catvod.com/douyin/884859081946
+c4,https://iptv.catvod.com/douyin/202606042001
+
+yy,#genre#
+yy1,https://iptv.catvod.com/yy/99293139
 
 卫视,#genre#
 东方卫视,http://120.253.150.222:50312/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
