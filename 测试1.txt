@@ -26,6 +26,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "aiying",
+      "name": "爱影",
+      "type": 0,
+      "api": "https://www.iycms.com/documents/instruction?questionId=5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
