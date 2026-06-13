@@ -28,10 +28,10 @@
       "filterable": 1
     },
     {
-      "key": "aiying",
-      "name": "爱影",
-      "type": 0,
-      "api": "https://www.iycms.com/documents/instruction?questionId=5",
+      "key": "huya",
+      "name": "虎牙",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
