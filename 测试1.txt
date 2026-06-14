@@ -7,7 +7,7 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "国产剧",
         "港台剧",
