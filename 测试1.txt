@@ -575,6 +575,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "mtjson",
+      "name": "茅台json",
+      "type": 1,
+      "api": "https://caiji.maotai999.vip/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mtm3u8json",
+      "name": "茅台m3u8json",
+      "type": 1,
+      "api": "  https://caiji.maotai999.vip/api.php/provide/vod/from/mtm3u8/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mtm3u8xml",
+      "name": "茅台m3u8xml",
+      "type": 0,
+      "api": " https://caiji.maotai999.vip/api.php/provide/vod/from/mtm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
