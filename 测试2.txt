@@ -17,6 +17,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "fei",
+      "name": "飞飞",
+      "type": 0,
+      "api": "https://api.yyzy-tv.vip/inc/feifei3_all/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
