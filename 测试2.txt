@@ -10,18 +10,9 @@
       "filterable": 1
     },
     {
-      "key": "duanjv",
-      "name": "短剧",
-      "type": 1,
-      "api": "http:/ly51.yanshi.icu/addons/shortplayspider/api",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "fei",
       "name": "飞飞",
-      "type": 1,
+      "type": 2,
       "api": "https://api.yyzy-tv.vip/inc/feifei3_all/",
       "searchable": 1,
       "quickSearch": 1,
