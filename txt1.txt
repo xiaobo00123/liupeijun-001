@@ -20,10 +20,20 @@ tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
 华艺中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=37
 WMBC-DT1 (720p),http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 WWOR-DT1,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰中文,http://8.138.7.223/tv/gdmzyd.php?id=4$LR•IPV4『线路30』
+凤凰中文,http://218.206.193.218:8888/hls/66/index.m3u8
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
+凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
+凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv$tsfile
+东森超市,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3
 东森超市,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 ETV,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 新型冠状病毒科普,https://rvms.china.com/api/video/onaliyun/query?id=44330&ttype=mp4
@@ -485,12 +495,15 @@ MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
 民视闽南FYtv,http://iptv.4666888.xyz/iptv2A.php?id=55
 民视影剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
-中天新闻欣赏,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
-[VGA]中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-中天新闻,https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8
-中天新闻,http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8
-中天新闻,https://test.946985.filegear-sg.me/proxy/2160580991ac55a7
+中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+[BD]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.m3u8
+[VGA]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1-1.m3u8
+[BD]中天新闻,rtmp://ai.gdjs.net.cn/live/332000-ztxw2
+[BD]中天新闻,rtmp://221.4.216.91/live/332123-ztxw
+中天新闻 CTI News,https://tv123.cc.cd/live.php?ch=9b8c4dec582
+中天新闻(备),http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
