@@ -20,19 +20,12 @@ tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
 华艺中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=37
 WMBC-DT1 (720p),http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 WWOR-DT1,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-凤凰中文,http://218.206.193.218:8888/hls/66/index.m3u8
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
-凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.ctv
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv$tsfile
+凤凰卫视资讯,https://tv123.cc.cd/live.php?ch=29b62cd8787
+凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+凤凰卫视,http://218.206.193.218:8888/hls/67/index.m3u8
+凤凰卫视中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 东森超市,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3
 东森超市,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 ETV,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
@@ -496,9 +489,10 @@ MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
 民视影剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
 中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
-中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 [BD]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.m3u8
 [VGA]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1-1.m3u8
+[BD]中天新闻,rtmp://media.atmsiot.com/live/ztxw
+[BD]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8
 [BD]中天新闻,rtmp://ai.gdjs.net.cn/live/332000-ztxw2
 [BD]中天新闻,rtmp://221.4.216.91/live/332123-ztxw
 中天新闻 CTI News,https://tv123.cc.cd/live.php?ch=9b8c4dec582
