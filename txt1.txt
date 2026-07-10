@@ -20,8 +20,8 @@ tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
 华艺中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=37
 WMBC-DT1 (720p),http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 WWOR-DT1,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-凤凰卫视资讯,https://tv123.cc.cd/live.php?ch=29b62cd8787
-凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+鳳凰中文,http://45.192.97.170:8880/play/793.m3u8
+凤凰中文,http://45.192.97.170:8880/play/835.m3u8
 凤凰卫视,http://218.206.193.218:8888/hls/67/index.m3u8
 凤凰卫视中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -489,16 +489,7 @@ MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
 民视影剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
 中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
-[BD]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.m3u8
-[VGA]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1-1.m3u8
-[BD]中天新闻,rtmp://media.atmsiot.com/live/ztxw
-[BD]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8
-[BD]中天新闻,rtmp://ai.gdjs.net.cn/live/332000-ztxw2
-[BD]中天新闻,rtmp://221.4.216.91/live/332123-ztxw
-中天新闻 CTI News,https://tv123.cc.cd/live.php?ch=9b8c4dec582
-中天新闻(备),http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
-中天新闻,http://rihou.cc:555/tv/中天新闻
-中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+中天新聞台,http://45.192.97.170:8880/play/961.m3u8
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
