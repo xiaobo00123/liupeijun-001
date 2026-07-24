@@ -20,8 +20,7 @@ tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
 华艺中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=37
 WMBC-DT1 (720p),http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 WWOR-DT1,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-鳳凰中文,http://45.192.97.170:8880/play/793.m3u8
-凤凰中文,http://45.192.97.170:8880/play/835.m3u8
+凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰卫视,http://218.206.193.218:8888/hls/67/index.m3u8
 凤凰卫视中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视中文,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -489,6 +488,25 @@ MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
 民视影剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
 中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻欣赏,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻欣赏,http://rihou.cc:555/tv/[Hv]中天新聞
+中天新闻欣赏,http://rihou.cc:555/tv/[Us]中天新闻
+中天新闻欣赏,http://rihou.cc:555/tv/[Bx]中天新闻
+中天新闻4Gtv,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+[VGA]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
+[VGA]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-5.m3u8
+[VGA]中天新闻,rtmp://47.238.2.198/live/888ztxw
+[HD]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-7.m3u8
+[SD]中天新闻 *$,https://t.freetv.fun/live/zhong-tian-xin-wen-8.m3u8
+中天新闻 CTI News,http://tv123.cc.cd/live.php?ch=271&sid=b750d1e7175ee7c72c0e27b859778e9f&exp=1784726345&sig=897ba8ea670f862eb73f1f75a3bb75b68fd66ed7022b0321e2d1d13fd3333798
+中天新闻「4gTV」,http://tv123.cc.cd/live.php?ch=1708&sid=b750d1e7175ee7c72c0e27b859778e9f&exp=1784726345&sig=aff95b7d991945ca26da7c16b106a269adcbf3ebd9ba6f5388c2b516e1ef516c
+中天新闻(备),http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
+中天新闻,http://hsjky.com.cn:8081/live/111ztxw.m3u8
+中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+中天新闻,http://www.kaniptv.cn/uadl.php?etoken=d2A8AIvYd8EFBaFDYIaOpFlbnAGwT%2FzT3lJSGYFwvgol4EZyKQTj6iqieNoVSedQB7du8u8FvH6GkW3K55fdgSyz%2Bm6qDQE7VEDQrUI4pHxuGUK%2B2Moqi7uqHl1Usa0nM%2FeuUhr38UbwWjHq0iTE49MHRieGi8xEW2UORihsI6Vhzh01XeSfzKQMo%2FPgdof6wiF%2FL17shfM%2F3Loq8vPfAZPPboYmlwx%2BqK65UJg%2Bl3NONW9We0VFp1%2FLeniAGYqbuG6XxaBKLWp8FinNye6bIA0YR7hpqa54fwY4DsLYfoR8uC79%2BIT66Kxd5UyX5kbZumnCbPufkfFtMUYt%2FPe7%2Bw%3D%3D
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+[HD]中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 中天新聞台,http://45.192.97.170:8880/play/961.m3u8
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
