@@ -28,10 +28,10 @@
       "filterable": 1
     },
     {
-      "key": "madou",
-      "name": "麻豆",
-      "type": 4,
-      "api": "./麻豆.min.js",
+      "key": "yinghua",
+      "name": "樱花",
+      "type": 1,
+      "api": "./樱花视频.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
