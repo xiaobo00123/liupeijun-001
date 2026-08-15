@@ -30,7 +30,7 @@
     {
       "key": "madou",
       "name": "麻豆",
-      "type": 3,
+      "type": 4,
       "api": "./麻豆.min.js",
       "searchable": 1,
       "quickSearch": 1,
