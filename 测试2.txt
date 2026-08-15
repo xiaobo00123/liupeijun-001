@@ -31,7 +31,7 @@
       "key": "yinghua",
       "name": "樱花",
       "type": 1,
-      "api": "./樱花视频.min.js",
+      "api": "https://learnpython.ggff.net/HLBTY",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
