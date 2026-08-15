@@ -30,7 +30,7 @@
     {
       "key": "ole",
       "name": "欧乐",
-      "type": 1,
+      "type": 4,
       "api": "https://py.doube.eu.org/spider?site=OleVod",
       "searchable": 1,
       "quickSearch": 1,
