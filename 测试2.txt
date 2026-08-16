@@ -30,7 +30,7 @@
     {
       "key": "hmer",
       "name": "黑木耳",
-      "type": 0,
+      "type": 2,
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
