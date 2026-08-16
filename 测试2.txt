@@ -48,8 +48,8 @@
     {
       "key": "heimuer",
       "name": "黑木耳",
-      "type": 4,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "type": 1,
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
