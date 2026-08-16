@@ -28,10 +28,28 @@
       "filterable": 1
     },
     {
-      "key": "hmer",
-      "name": "黑木耳",
+      "key": "ruye",
+      "name": "如意",
       "type": 2,
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dianying",
+      "name": "电影",
+      "type": 2,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "heimuer",
+      "name": "黑木耳",
+      "type": 2,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
