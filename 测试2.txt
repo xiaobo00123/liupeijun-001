@@ -28,10 +28,10 @@
       "filterable": 1
     },
     {
-      "key": "ole",
-      "name": "欧乐",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=OleVod",
+      "key": "hmer",
+      "name": "黑木耳",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
