@@ -48,7 +48,7 @@
     {
       "key": "heimuer",
       "name": "黑木耳",
-      "type": 3,
+      "type": 4,
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
